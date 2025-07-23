@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Welcome
 
-<!--
-**samuel-stoddard/samuel-stoddard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Samuel, a relentless learner focused on mastering software engineering, systems thinking, and mental discipline.  
+Currently studying Python, algorithms, and building real-world projects.  
 
-Here are some ideas to get you started:
+**Current Mission:**  
+- 💻 Build a daily coding habit  
+- ♟️ Reach 1600 in chess  
+- 📚 Study 4 hours/day toward my Computer Science degree.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Quote I Live By:**  
+_"it is not death that a man should fear, but he should fear never beginning to live." - Marcus Aurelius
+
